@@ -19,7 +19,6 @@
 You can see the full set of changes in the .NET Framework 4.7.1 in the [change list](https://github.com/Microsoft/dotnet/blob/master/releases/net471/dotnet471-changes.md) and [API diff](https://github.com/Microsoft/dotnet/blob/master/releases/net471/dotnet471-api-changes.md) on [GitHub](https://github.com/microsoft/dotnet).
 
 The matching Developer Pack can be installed using [this package](https://chocolatey.org/packages/netfx-4.7.1-devpack).</description>
-</description>
     <releaseNotes>
 ##### Software
 [.NET Framework 4.7.1 release notes](https://github.com/Microsoft/dotnet/blob/master/releases/net471/README.md)
